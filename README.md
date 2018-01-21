@@ -4,3 +4,8 @@ https://v4game.github.io/mumble-test-tools/
 
 ### Download
 https://github.com/v4game/mumble-test-tools/releases
+
+### Usage
+- Run MMtest.exe 
+- Wait until the program finishes working.
+- Send file report.txt your mumble hosting provider.
