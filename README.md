@@ -3,7 +3,7 @@ This utility is used to diagnose system and network settings and test connection
 https://v4game.github.io/mumble-test-tools/
 
 ### Download
-https://github.com/v4game/mumble-test-tools/releases
+[Releases](https://github.com/v4game/mumble-test-tools/releases)
 
 ### Usage
 - Run MMtest.exe 
