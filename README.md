@@ -9,3 +9,6 @@ https://github.com/v4game/mumble-test-tools/releases
 - Run MMtest.exe 
 - Wait until the program finishes working.
 - Send file report.txt your mumble hosting provider.
+
+#### [Mumble hosting](https://v4game.ru)
+#### [TeamSpeak3 hosting](https://ts4game.ru)
