@@ -1,4 +1,4 @@
-# Mumble test tools
+# V4Game Tools
 This utility is used to diagnose system and network settings and test connections to Mumble servers.
 
 [v4game.github.io](https://v4game.github.io/tools/)
@@ -7,7 +7,7 @@ This utility is used to diagnose system and network settings and test connection
 [Latest release](https://github.com/v4game/tools/releases)
 
 ### Usage
-- Run MMtest.exe 
+- Run V4GameTools.exe 
 - Wait until the program finishes working.
 - Send file report.txt your mumble hosting provider.
 
