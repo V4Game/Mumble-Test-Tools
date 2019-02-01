@@ -13,3 +13,6 @@ This utility is used to diagnose system and network settings and test connection
 
 #### [Mumble hosting](https://v4game.ru)
 #### [TeamSpeak3 hosting](https://ts4game.ru)
+
+### Screenshots
+![Screenshots](https://v4game.github.io/tools/screenshots/1.png)
